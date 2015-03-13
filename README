@@ -9,3 +9,6 @@ MarkovChains.py
 
 carrie_and_lowell_lyrics.txt
     lyrics taken from Sufjan Stevens' Carrie and Lowell album.
+
+
+I might add an option for 5 words, which would probably print all lyrics out in order
