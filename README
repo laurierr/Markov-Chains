@@ -1,3 +1,11 @@
 The original project was take from https://gist.github.com/agiliq/131679
 Added an option to change the word length in the database, more words equals less randomness
 
+random_sufjan.py
+    calls MarkovChains.py, and lets you test the program out.
+
+MarkovChains.py
+    The actualy markov chain
+
+carrie_and_lowell_lyrics.txt
+    lyrics taken from Sufjan Stevens' Carrie and Lowell album.

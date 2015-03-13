@@ -1,4 +1,3 @@
-#!/usr/bin/env Python
 import MarkovChain
 
 File = open("carrie_and_lowell_lyrics.txt")
